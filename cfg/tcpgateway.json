@@ -1,0 +1,16 @@
+{
+	"MaxConnNum": 2048,
+	"PendingNum": 100,
+	"MaxMsgLen": 40960,
+	"MinMsgLen": 0,
+	"ReadDeadline":3600,
+	"WriteDeadline":10,
+	"ServerAddress": "10.12.103.67:19527",
+	"MaxHeader":1024,
+	"HttpTimeout": 10,
+	"CertFile": "",
+	"KeyFile": "",
+	"Rpm":10000,
+	"AsyncMQ":64,
+	"GateWayIds":1499
+}

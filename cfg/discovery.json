@@ -1,0 +1,13 @@
+{
+	"Services": [
+		{
+			"Name":"service",
+			"Instance":[
+				{
+					"Id":"0",
+					"Address":"10.12.103.67:1234"
+				}
+			]
+		}
+	]
+}
